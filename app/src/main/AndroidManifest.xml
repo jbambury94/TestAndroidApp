@@ -33,7 +33,7 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="pendo-5df98bd7"/>
+                <!-- ENTER SCHEME_ID HERE-->    <data android:scheme=" "/>
             </intent-filter>
         </activity>
     </application>

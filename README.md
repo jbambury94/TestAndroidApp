@@ -1,4 +1,4 @@
-<H1> Test Andriod app (Native Framework) for Pendo Mobile Testing. </H1>
+<H1> Andriod app (Native Framework) for Pendo Mobile Testing. </H1>
 
 <H2> Prerequites </H2>
 

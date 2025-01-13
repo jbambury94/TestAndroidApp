@@ -8,7 +8,7 @@ Android Studio has been installed via Pendo Self-Service.
 
 Open Andriod Studio
 
-Click 'Get From VCS' on welcome screen
+<strong> If git is installed </strong> Click 'Get From VCS' on welcome screen
 
 <img width="811" alt="Screenshot 2025-01-09 at 10 16 18" src="https://github.com/user-attachments/assets/95aa2476-e2ea-47c6-b5b1-c601d987303c" />
 
@@ -17,6 +17,8 @@ Enter https://github.com/jbambury94/TestAndroidApp.git in URL
 
 
 Click Clone.
+
+If you don't have git please download the code as a zip, decompress and open in Android Studion directly. 
 
 
 Click 'Trust Project' if popup appears.
